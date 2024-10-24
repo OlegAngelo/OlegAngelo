@@ -47,3 +47,7 @@
 <a href="https://portfolioangelo.netlify.app/" target="blank">
 </p>
 
+<br>
+
+[![An image of @olegangelo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/olegangelo)](https://holopin.io/@olegangelo)
+
