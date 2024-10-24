@@ -1,6 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm Niño Angelo Balagtas</h1> 
 <h3 align="center">An aspiring Full Stack Software Engineer, and AI/ML & Robotics Hobbyist </h3>
+
 <br>
+
 # ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - 🌍 I'm based from the Philippines.
 - 🤝 I'm open to collaborating on projects in **Web Development**.
@@ -9,6 +11,7 @@
 - 📫 How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
 
 <br>
+
 # 💻 Technologies:
 
 ### 🔎 Programming Languages:
