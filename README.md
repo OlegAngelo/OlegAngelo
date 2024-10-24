@@ -16,15 +16,17 @@
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,nodejs,py&theme=light)](https://skillicons.dev)
 
 
-## 🌐 Web Development:
-[![Web Development](https://skillicons.dev/icons?i=react,redux,html,dotnet,nextjs,express,css,tailwind,npm&theme=light)](https://skillicons.dev)
+### 🌐 Web Development:
+[![Web Development](https://skillicons.dev/icons?i=react,redux,html,dotnet,nextjs,express,css,tailwind&theme=light)](https://skillicons.dev)
 
 
 ### ⚙️ Databases:
-[![Databases](https://skillicons.dev/icons?i=mssql&theme=light)](https://skillicons.dev)
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+</p>
 
 
-## 📊 Artificial Intelligence and Machine Learning:
+### 📊 Artificial Intelligence and Machine Learning:
 [![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
 
@@ -33,7 +35,7 @@
 
 
 ### 🌟 Other Software:
-[![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,heroku,linux,vim,netlify,postman,ubuntu,obsidian&theme=light)](https://skillicons.dev)
+[![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian&theme=light)](https://skillicons.dev)
 
 
 
