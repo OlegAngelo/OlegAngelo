@@ -13,11 +13,11 @@
 
 
 ### 🔎 Programming Languages:
-[![Programming Languages](https://skillicons.dev/icons?i=cs,js,nodejs,py&theme=light)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,py)](https://skillicons.dev)
 
 
 ### 🌐 Web Development:
-[![Web Development](https://skillicons.dev/icons?i=react,redux,html,dotnet,nextjs,express,css,tailwind&theme=light)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=html,react,redux,nodejs,dotnet,nextjs,express,css,tailwind)](https://skillicons.dev)
 
 
 ### ⚙️ Databases:
@@ -27,15 +27,15 @@
 
 
 ### 📊 Artificial Intelligence and Machine Learning:
-[![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+[![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
 
 ### 📊 Robotics/Computer Engineering/Hobbies:
-[![Robotics/Computer Engineering/Hobbies](https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light)](https://skillicons.dev)
+[![Robotics/Computer Engineering/Hobbies](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 
 ### 🌟 Other Software:
-[![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian&theme=light)](https://skillicons.dev)
+[![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian)](https://skillicons.dev)
 
 
 
