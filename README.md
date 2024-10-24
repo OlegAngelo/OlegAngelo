@@ -11,35 +11,29 @@
 
 # 💻 Technologies:
 
-## 🔎 Programming Languages:
+
+### 🔎 Programming Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,nodejs,py&theme=light)](https://skillicons.dev)
 
 
 ## 🌐 Web Development:
-<p align="left"> 
 [![Web Development](https://skillicons.dev/icons?i=react,redux,html,dotnet,nextjs,express,css,tailwind,npm&theme=light)](https://skillicons.dev)
-</p>
 
-## ⚙️ Databases:
-<p align="left">
+
+### ⚙️ Databases:
 [![Databases](https://skillicons.dev/icons?i=mssql&theme=light)](https://skillicons.dev)
-</p>
+
 
 ## 📊 Artificial Intelligence and Machine Learning:
-<p align="left">
 [![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=light)](https://skillicons.dev)
-</p>
 
-## 📊 Robotics/Computer Engineering/Hobbies:
-<p align="left">
+
+### 📊 Robotics/Computer Engineering/Hobbies:
 [![Robotics/Computer Engineering/Hobbies](https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light)](https://skillicons.dev)
-</p>
 
-## 🌟 Other Software:
-<p align="left">
+
+### 🌟 Other Software:
 [![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,heroku,linux,vim,netlify,postman,ubuntu,obsidian&theme=light)](https://skillicons.dev)
-</p>
-
 
 
 
