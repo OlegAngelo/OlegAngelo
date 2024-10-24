@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Niño Angelo Balagtas</h1> ![](https://komarev.com/ghpvc/?username=OlegAngelo)
+<h1 align="center">Hi 👋, I'm Niño Angelo Balagtas</h1> 
 <h3 align="center">An aspiring Full Stack Software Engineer, and AI/ML & Robotics Hobbyist </h3>
 
-# ✨ About Me:
+# ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - 🌍 I'm based from the Philippines.
 - 🤝 I'm open to collaborating on projects in **Web Development**.
 - 🚀 I'm currently working on projects on **Aquaponics and Medical Alert AI**.
@@ -10,10 +10,10 @@
 
 
 # 💻 Technologies:
+
 ## 🔎 Programming Languages:
-<p align="left">
- [![Programming Languages](https://skillicons.dev/icons?i=cs,js,nodejs,py&theme=light)](https://skillicons.dev)
-</p>
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,nodejs,py&theme=light)](https://skillicons.dev)
+
 
 ## 🌐 Web Development:
 <p align="left"> 
