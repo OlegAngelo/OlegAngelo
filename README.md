@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Niño Angelo Balagtas</h1> 
+<h1 align="center"> 👋 Hi, I'm Niño Angelo Balagtas</h1> 
 <h3 align="center">An aspiring Full Stack Software Engineer, and AI/ML & Robotics Hobbyist </h3>
-
+<br>
 # ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - 🌍 I'm based from the Philippines.
 - 🤝 I'm open to collaborating on projects in **Web Development**.
@@ -8,9 +8,8 @@
 - 🌱 I’m currently learning **Arduino, Python, ML, AI, OCR, & NLP for my projects**.
 - 📫 How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
 
-
+<br>
 # 💻 Technologies:
-
 
 ### 🔎 Programming Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,py)](https://skillicons.dev)
@@ -37,9 +36,9 @@
 ### 🌟 Other Software:
 [![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian)](https://skillicons.dev)
 
+<br>
 
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/nbalagtas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nbalagtas" height="30" width="40" /></a>
 <a href="https://portfolioangelo.netlify.app/" target="blank">
