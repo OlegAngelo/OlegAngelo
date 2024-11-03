@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Niño Angelo Balagtas</h1> 
-<h3 align="center">An aspiring Full Stack Software Engineer, and AI/ML & Robotics Hobbyist </h3>
+<h3 align="center">An aspiring Full Stack Software Engineer, AI/ML & Robotics Hobbyist </h3>
 
 <br>
 
