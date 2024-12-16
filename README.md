@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Hi, I'm Niño Angelo Balagtas</h1> 
-<h3 align="center">Full Stack Software Engineer</h3>
-<h4 align="center">Software, AI/ML, Robotics, IoT</h4>
+<h2 align="center"> 👋 Hi, I'm Niño Angelo Balagtas</h2> 
+<h4 align="center">Full Stack Software Engineer</h4>
+<h6 align="center">Software, AI/ML, Robotics, IoT</h6>
 
 <br>
 
