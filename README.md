@@ -42,11 +42,9 @@
 
 <br>
 
-<h2 align="left">Connect with me/ Check out my previous experiences:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/nbalagtas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nbalagtas" height="30" width="40" /></a>
-<a href="https://portfolioangelo.netlify.app/" target="blank">
-</p>
+## Connect with me:
+
+[![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](portfolioangelo.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nbalagtas/) 
 
 <br>
 
