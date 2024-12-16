@@ -41,7 +41,7 @@
 
 ## Github Stats and Activity Summary
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlegAngelo&theme=github_dark)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlegAngelo&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlegAngelo&theme=github_dark&utcOffset=5)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlegAngelo&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlegAngelo&theme=github_dark&utcOffset=8)
 
 
 ## Badges:
