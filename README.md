@@ -4,7 +4,7 @@
 
 <br>
 
-# ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
+## ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - 🌍 I'm based from the Philippines.
 - 🤝 I'm open to collaborating on projects in **Web Development**.
 - 🚀 I'm currently working on long-term projects on **Aquaponics & Medical Alert AI**.
@@ -13,31 +13,31 @@
 
 <br>
 
-# 💻 Technologies:
+## 💻 Technologies:
 
-### 🔎 Programming Languages:
+#### 🔎 Programming Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,py)](https://skillicons.dev)
 
 
-### 🌐 Web Development:
+#### 🌐 Web Development:
 [![Web Development](https://skillicons.dev/icons?i=html,react,redux,nodejs,dotnet,nextjs,express,css,tailwind)](https://skillicons.dev)
 
 
-### ⚙️ Databases:
+#### ⚙️ Databases:
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
 
-### 📊 Artificial Intelligence and Machine Learning:
+#### 📊 Artificial Intelligence and Machine Learning:
 [![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
 
-### 📊 Robotics/Computer Engineering/Hobbies:
+#### 📊 Robotics/Computer Engineering/Hobbies:
 [![Robotics/Computer Engineering/Hobbies](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 
-### 🌟 Other Software:
+#### 🌟 Other Software:
 [![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian)](https://skillicons.dev)
 
 <br>
