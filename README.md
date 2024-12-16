@@ -21,6 +21,8 @@
 
 #### 🌐 Web Development:
 [![Web Development](https://skillicons.dev/icons?i=html,react,redux,nodejs,dotnet,nextjs,express,css,tailwind)](https://skillicons.dev)
+![React](https://img.shields.io/badge/react)
+
 
 
 #### ⚙️ Databases:
