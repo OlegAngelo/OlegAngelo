@@ -2,7 +2,6 @@
 <h4 align="center">Full Stack Software Engineer</h4>
 <h6 align="center">Software, AI/ML, Robotics, IoT</h6>
 
-<br>
 
 ## ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - 🌍 I'm based from the Philippines.
@@ -11,7 +10,6 @@
 - 🌱 I’m currently learning **Arduino, Python, ML, AI, OCR, & NLP for my projects**.
 - 📫 How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
 
-<br>
 
 ## 💻 Technologies:
 
@@ -22,7 +20,6 @@
 
 
 #### 🌐 Web Development:
-[![Web Development](https://skillicons.dev/icons?i=html,react,redux,nodejs,dotnet,nextjs,express,css,tailwind)](https://skillicons.dev)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)  
@@ -41,20 +38,17 @@
 
 
 #### 📊 Artificial Intelligence and Machine Learning:
-[![Artificial Intelligence and Machine Learning](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 #### 📊 Robotics/Computer Engineering/Hobbies:
-[![Robotics/Computer Engineering/Hobbies](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-#### 🌟 Other Software:
-[![Other Software](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,npm,heroku,linux,vim,netlify,postman,ubuntu,obsidian)](https://skillicons.dev)
+#### 🌟 Other Software:(https://skillicons.dev)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
@@ -66,13 +60,12 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Obsidian](https://img.shields.io/badge/Obsidian-%236665F1.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-<br>
+
 
 ## Connect with me:
 
 [![Personal Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://portfolioangelo.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nbalagtas/) 
 
-<br>
 
 ## Badges:
 [![@olegangelo's Holopin board](https://holopin.me/olegangelo)](https://holopin.io/@olegangelo)
