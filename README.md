@@ -47,3 +47,7 @@
 ## Badges:
 [![@olegangelo's Holopin board](https://holopin.me/olegangelo)](https://holopin.io/@olegangelo)
 
+
+## test
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlegAngelo&theme=github_dark)
+
