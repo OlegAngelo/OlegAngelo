@@ -50,4 +50,4 @@
 
 
 ## Connect with me:
-[![Personal Portfolio Website](https://img.shields.io/badge/Personal%20Portfolio%20Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://portfolioangelo.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nbalagtas/) 
+[![Personal Portfolio Website](https://img.shields.io/badge/Personal%20Portfolio%20Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://angelobalagtas.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nbalagtas/) 
