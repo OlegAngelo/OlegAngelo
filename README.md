@@ -11,7 +11,7 @@
 - 📫 How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
 
 
-## 💻 Technologies:
+[//]: # (## 💻 Technologies:)
 
 #### 🔎 Programming Languages:
 ![C#](https://img.shields.io/badge/C%23-%23593D88.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
