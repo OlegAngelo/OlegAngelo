@@ -1,14 +1,13 @@
-<h4 align="center">Full Stack Software Engineer</h4>
 <h6 align="center">Software, AI/ML, Robotics, IoT</h6>
 
-![Hey, it's Angelo](svg-angelo.svg)
+![Hey, it's Angelo](svg-angelo-pro.svg)
 
-### ✨ About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
-- 🌍 I'm based from the Philippines.
-- 🤝 I'm open to collaborating on projects in **Web Development**.
-- 🚀 I'm currently working on long-term projects on **Aquaponics w/ Robotics & Medical Alert AI**.
-- 🌱 I’m currently learning **Arduino, Python, ML, AI, OCR, & NLP for my projects**.
-- 📫 How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
+### About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
+- I'm based from the Philippines.
+- I'm open to collaborating on projects in **Web Development**.
+- I'm currently working on long-term projects on **Aquaponics w/ Robotics & Medical Alert AI**.
+- I’m currently learning **Arduino, Python, ML, AI, OCR, & NLP for my projects**.
+- How to reach me **angelonino1999@gmail.com** or **naubalagtas@gmail.com**
 
 
 ### Connect with me:
