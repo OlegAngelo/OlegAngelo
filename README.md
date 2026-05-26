@@ -3,6 +3,7 @@
 ![Hey, it's Angelo](svg-angelo-pro.svg)
 
 <hr>
+
 ### About Me: ![](https://komarev.com/ghpvc/?username=OlegAngelo)
 - I'm based from the Philippines.
 - I'm open to collaborating on projects in **Web Development**.
